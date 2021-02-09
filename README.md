@@ -30,7 +30,7 @@
 
 ### Computer Science
 
-* [javidx9/OneLoneCoder](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkAl)
+* [javidx9/OneLoneCoder](https://www.youtube.com/c/javidx9/featured)
 * [Ben Eater](https://www.youtube.com/c/BenEater/featured)
 * [Jacob Schrum](https://www.youtube.com/c/JacobSchrum/featured)
 * [WilliamFiset](https://www.youtube.com/c/WilliamFiset-videos/featured)
@@ -38,14 +38,14 @@
 
 ### Software Engineering
 
-* [javidx9/OneLoneCoder](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkAl)
+* [javidx9/OneLoneCoder](https://www.youtube.com/c/javidx9/featured)
 * [Engineer Man](https://www.youtube.com/c/EngineerMan/featured)
 * [TechWorld with Nana](https://www.youtube.com/c/TechWorldwithNana/featured)
 * [Mayuko](https://www.youtube.com/c/hellomayuko/featured)
 
 ### Game Development
 
-* [javidx9/OneLoneCoder](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkAl)
+* [javidx9/OneLoneCoder](https://www.youtube.com/c/javidx9/featured)
 * [Bisqwit](https://www.youtube.com/c/Bisqwit/featured)
 * [CodeParade](https://www.youtube.com/c/CodeParade/featured)
 * [ThinMatrix](https://www.youtube.com/user/ThinMatrix/videos)
@@ -63,7 +63,7 @@
 
 #### C++
 
-* [javidx9/OneLoneCoder](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkAl)
+* [javidx9/OneLoneCoder](https://www.youtube.com/c/javidx9/featured)
 * [Bisqwit](https://www.youtube.com/c/Bisqwit/featured)
 
 #### Rust
