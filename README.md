@@ -121,6 +121,7 @@
 * [Build project from scratch](https://github.com/danistefanovic/build-your-own-x?fbclid=IwAR29tCyky0GpZMBbC2jLX9J2QmMN3XTDiKFPHhg_juwj__aP8-wygqyddM4)
 * [Easy to contribute open source](https://www.firsttimersonly.com/)
 * [Connected Paper](https://www.connectedpapers.com/)
+* [MPI tutorial](https://mpitutorial.com/)
 
 ## Vim plugin
 
