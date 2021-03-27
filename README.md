@@ -122,6 +122,7 @@
 * [Easy to contribute open source](https://www.firsttimersonly.com/)
 * [Connected Paper](https://www.connectedpapers.com/)
 * [MPI tutorial](https://mpitutorial.com/)
+* [Project Euler](https://projecteuler.net/about)
 * [Intro to optimization in Deep Learning](https://blog.paperspace.com/intro-to-optimization-momentum-rmsprop-adam/)
 
 ## Vim plugin
