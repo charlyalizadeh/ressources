@@ -124,6 +124,7 @@
 * [MPI tutorial](https://mpitutorial.com/)
 * [Project Euler](https://projecteuler.net/about)
 * [Intro to optimization in Deep Learning](https://blog.paperspace.com/intro-to-optimization-momentum-rmsprop-adam/)
+* [Julia design pattern](https://github.com/PacktPublishing/Hands-on-Design-Patterns-and-Best-Practices-with-Julia)
 
 ## Vim plugin
 
