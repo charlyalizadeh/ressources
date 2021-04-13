@@ -155,7 +155,7 @@
 
 ## Reddit communities
 
-* [Unixporn](httpshttps://www.reddit.com/r/unixporn/)
+* [Unixporn](https://www.reddit.com/r/unixporn/)
 * [Academia](https://www.reddit.com/r/academia/)
 * [badUibattles](https://www.reddit.com/r/badUIbattles/)
 * [Blender](https://www.reddit.com/r/blender/)
