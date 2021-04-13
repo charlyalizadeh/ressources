@@ -155,13 +155,13 @@
 
 ## Reddit communities
 
-* [Unixporn](https://www.reddit.com/r/unixporn/)
+* [Unix](https://www.reddit.com/r/unixporn/)
 * [Academia](https://www.reddit.com/r/academia/)
 * [badUibattles](https://www.reddit.com/r/badUIbattles/)
 * [Blender](https://www.reddit.com/r/blender/)
 * [Data Is Beautiful](https://www.reddit.com/r/dataisbeautiful/)
 * [M-x emacs-reddit](https://www.reddit.com/r/emacs/)
-* [Fractal Porn](https://www.reddit.com/r/FractalPorn/)
+* [Fractal](https://www.reddit.com/r/FractalPorn/)
 * [Neovim](https://www.reddit.com/r/neovim/)
 * [Vim](https://www.reddit.com/r/vim/)
 * [Mechanical Keyboard](https://www.reddit.com/r/MechanicalKeyboards/)
