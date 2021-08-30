@@ -25,6 +25,7 @@
      * [Other](#other-2)
   * [Cool repos](#cool-repos)
   * [Reddit communities](#reddit-communities)
+  * [Articles](#articles)
 
 ## Youtube Channel
 
@@ -170,3 +171,8 @@
 * [Technical Factorio](https://www.reddit.com/r/technicalfactorio/)
 * [Vintage Unix](https://www.reddit.com/r/vintageunix/)
 * [Math](https://www.reddit.com/r/math/)
+
+## Articles
+
+ * [Gravitational Lensing by Spinning Black Holes in
+Astrophysics, and in the Movie Interstellar](https://arxiv.org/pdf/1502.03808.pdf)
